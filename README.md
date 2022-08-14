@@ -1,2 +1,2 @@
 # MakizhLibrary
-Books/TeachStudy
+Books/Tech Study
